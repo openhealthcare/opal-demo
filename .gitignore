@@ -1,0 +1,8 @@
+*.sqlite
+*.pyc
+static/*
+elcid/local_settings.py
+.coverage
+htmlcov
+libpeerconnection.log
+elcid/static
